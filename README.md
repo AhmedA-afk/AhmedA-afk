@@ -8,13 +8,26 @@
 
 - 🌱 I’m currently learning **LLMs, LMMs, NLP, RAG, ML and DS**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/ahmed1ansari](linktr.ee/ahmed1ansari)
+- 👨‍💻 Find all my links at [linktr.ee/ahmed1ansari](linktr.ee/ahmed1ansari)
 
-- 📝 I regularly write articles on [https://medium.com/@ahmedraza1ansari](https://medium.com/@ahmedraza1ansari)
+- 📝 Check out my Tech Articles on [https://medium.com/@ahmedraza1ansari](https://medium.com/@ahmedraza1ansari)
 
-- 📫 How to reach me **ahmedraza1ansari@gmail.com**
+- 📫 Reach me via email at: **ahmedraza1ansari@gmail.com**
 
-- 📄 Know about my experiences [https://tr.ee/sGLfV-FUt1](https://tr.ee/sGLfV-FUt1)
+- 📄 My Resume: [https://tr.ee/sGLfV-FUt1](https://tr.ee/sGLfV-FUt1)
+
+
+🎓 Pre-Final Year CSE student passionate about Data Science, Machine Learning, and AI.
+
+💼 B.Tech in CSE from CSPIT - CHARUSAT, with a Diploma in IT from Lukhdhirji Engineering College - Morbi.
+🌟 Preferred Languages: Python/C++.
+🚀 Deeply interested in Large Language Models (LLMs) and Generative AI.
+
+**What I Do**
+🤖 Actively engaged in exploring the frontiers of innovation in ML and DS.
+💻 Love participating in competitive programming contests, hackathons, and tech meetups/conferences.
+
+📚 Hobbies include reading novels and sketching, and writing poetries.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
