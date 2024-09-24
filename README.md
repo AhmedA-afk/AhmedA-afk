@@ -29,17 +29,17 @@
 
 📚 Hobbies include reading Classics/Novels and sketching, and writing poetries.
 ## 🖥️ My WorkSpace:
-![Static Badge](https://img.shields.io/badge/Zorin%200s%2016%20-black?style=for-the-badge&logo=zorin)
-![Static Badge](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-white?style=for-the-badge&logo=ubuntu)
-![Static Badge](https://img.shields.io/badge/Flow%20X13-black?style=for-the-badge&logo=republicofgamers)
-![Static Badge](https://img.shields.io/badge/Ryzen%209%206900HS-white?style=for-the-badge&logo=amd&logoColor=black)
-![Static Badge](https://img.shields.io/badge/RTX%203050-black?style=for-the-badge&logo=nvidia)
-![Static Badge](https://img.shields.io/badge/DeathAdder%20Essential-white?style=for-the-badge&logo=razer)
+| ![Static Badge](https://img.shields.io/badge/Zorin%200s%2016%20-black?style=for-the-badge&logo=zorin) | ![Static Badge](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-white?style=for-the-badge&logo=ubuntu) | ![Static Badge](https://img.shields.io/badge/Flow%20X13-black?style=for-the-badge&logo=republicofgamers) | ![Static Badge](https://img.shields.io/badge/Ryzen%209%206900HS-white?style=for-the-badge&logo=amd&logoColor=black) | ![Static Badge](https://img.shields.io/badge/RTX%203050-black?style=for-the-badge&logo=nvidia) | ![Static Badge](https://img.shields.io/badge/DeathAdder%20Essential-white?style=for-the-badge&logo=razer) |
+| --- | --- | --- | --- | --- | --- |
 
-
+<!--
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100004944645046) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/apoetry_aday/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-1-ansari/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ahmedraza1ansari) 
 
+## 🌐 Socials:
+| ![Static Badge](https://img.shields.io/badge/Facebook-%230866FF?style=for-the-badge&logo=facebook&logoColor=whitw) | ![Static Badge](https://img.shields.io/badge/Instagram%20-%20%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+ |  |  |  |  | 
+-->
 
 ## 💻 Tech Stack:
 <!--
