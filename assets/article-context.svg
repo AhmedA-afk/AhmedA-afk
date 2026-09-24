@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="248" viewBox="0 0 820 248" role="img" aria-labelledby="title">
+<title id="title">Context Is Commoditized: Tokens Are the Currency, Context Is the Gold. Read Ahmed Ansari on Medium.</title>
+<rect width="820" height="248" rx="16" fill="#352080"/>
+<g font-family="Verdana,sans-serif" fill="#FFFFFF">
+<text x="30" y="38" font-size="15" fill="#E4D6FF">Ahmed Ansari on Medium</text>
+<text x="30" y="87" font-size="28" font-weight="700">Context Is Commoditized:</text>
+<text x="30" y="128" font-size="26" font-weight="700">Tokens Are the Currency,</text>
+<text x="30" y="169" font-size="26" font-weight="700">Context Is the Gold.</text>
+<text x="30" y="219" font-size="16" fill="#FFDC65">Read the article ↗</text>
+</g>
+<g fill="none" stroke="#AE91FF" stroke-width="2">
+<path d="M594 65L699 47 761 122 683 192 594 65M594 65L761 122M699 47L683 192"/>
+</g>
+<circle cx="594" cy="65" r="14" fill="#FF7EAB"/><circle cx="699" cy="47" r="11" fill="#42E2B8"/>
+<circle cx="761" cy="122" r="17" fill="#FF7EAB"/><circle cx="683" cy="192" r="14" fill="#42E2B8"/>
+<circle cx="675" cy="119" r="40" fill="#FFDC65"/><circle cx="675" cy="119" r="29" fill="none" stroke="#352080" stroke-width="2"/>
+<text x="675" y="128" text-anchor="middle" font-family="Verdana,sans-serif" font-size="26" font-weight="700" fill="#352080">ctx</text>
+</svg>

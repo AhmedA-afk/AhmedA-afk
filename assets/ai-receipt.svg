@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="268" viewBox="0 0 820 268" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed's illustrative AI builder's receipt</title>
+  <desc id="desc">A playful, illustrative snapshot of Ahmed's AI engineering approach: retrieve, call tools, evaluate, and enforce guardrails in code.</desc>
+  <rect width="820" height="268" rx="16" fill="#17191F"/>
+  <path d="M0 232L20 248 40 232 60 248 80 232 100 248 120 232 140 248 160 232 180 248 200 232 220 248 240 232 260 248 280 232 300 248 320 232 340 248 360 232 380 248 400 232 420 248 440 232 460 248 480 232 500 248 520 232 540 248 560 232 580 248 600 232 620 248 640 232 660 248 680 232 700 248 720 232 740 248 760 232 780 248 800 232 820 248" fill="#17191F" stroke="#3B404C" stroke-width="2"/>
+  <g font-family="'Courier New',monospace">
+    <text x="30" y="40" font-size="15" fill="#9EA7BA">AHMED'S AI BUILDER RECEIPT</text>
+    <text x="30" y="70" font-size="13" fill="#6F7787">illustrative snapshot · no private usage data</text>
+    <path d="M30 88H790" stroke="#3B404C" stroke-width="2" stroke-dasharray="6 8"/>
+    <text x="30" y="122" font-size="18" fill="#FFCB47">01</text><text x="75" y="122" font-size="18" fill="#FFFFFF">retrieve useful context</text><text x="710" y="122" font-size="18" fill="#42E2B8">✓</text>
+    <text x="30" y="153" font-size="18" fill="#FF7EAB">02</text><text x="75" y="153" font-size="18" fill="#FFFFFF">give agents real tools</text><text x="710" y="153" font-size="18" fill="#42E2B8">✓</text>
+    <text x="30" y="184" font-size="18" fill="#8E7CFF">03</text><text x="75" y="184" font-size="18" fill="#FFFFFF">evaluate before shipping</text><text x="710" y="184" font-size="18" fill="#42E2B8">✓</text>
+    <text x="30" y="215" font-size="18" fill="#42E2B8">04</text><text x="75" y="215" font-size="18" fill="#FFFFFF">put guardrails in code</text><text x="710" y="215" font-size="18" fill="#42E2B8">✓</text>
+    <text x="560" y="70" font-size="18" fill="#FFCB47">TOTAL: useful</text>
+  </g>
+</svg>

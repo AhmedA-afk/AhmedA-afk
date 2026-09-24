@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Ansari — Code, context, and a little curiosity.</title>
+  <desc id="desc">A vivid blue banner with a colorful network of connected ideas.</desc>
+  <rect width="1200" height="320" rx="20" fill="#173BE8"/>
+  <path d="M0 294H1200" stroke="#4264FF" stroke-width="2"/>
+  <g fill="none" stroke="#8198FF" stroke-width="3">
+    <path d="M839 67L978 117 1112 54M978 117L1090 242 844 247 839 67M844 247L978 117M1112 54L1090 242"/>
+  </g>
+  <circle cx="839" cy="67" r="22" fill="#FFCB47"/>
+  <rect x="950" y="89" width="56" height="56" rx="14" fill="#FF6B75"/>
+  <circle cx="1112" cy="54" r="15" fill="#FFFFFF"/>
+  <circle cx="1090" cy="242" r="31" fill="#42E2B8"/>
+  <rect x="828" y="231" width="32" height="32" rx="6" fill="#FFCB47"/>
+  <g font-family="'Trebuchet MS',Verdana,sans-serif" fill="#FFFFFF">
+    <text x="58" y="120" font-size="66" font-weight="700">Ahmed Ansari</text>
+    <text x="62" y="178" font-size="28">Code, context, and a little curiosity.</text>
+    <text x="62" y="253" font-size="20" fill="#DCE5FF">Building with AI. Thinking beyond the prompt.</text>
+  </g>
+  <path d="M58 34H132" stroke="#FFCB47" stroke-width="7" stroke-linecap="round"/>
+</svg>
